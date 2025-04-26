@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_core
+langchain_groq
+sklearn
+numpy
+pandas
+faiss-cpu

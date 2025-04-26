@@ -1,15 +1,3 @@
-Perfect — you want everything combined into a **GitHub README-style post**, right? 📄✨  
-I’ll organize it cleanly:  
-- Title  
-- Introduction  
-- Workflow  
-- Prerequisites  
-- Quick Version  
-- Hashtags  
-
-Here’s the complete **GitHub post** you can copy-paste:
-
----
 
 # 🧠 RAG 1.0 Workflow: From PDF to Smart Answers  
 
